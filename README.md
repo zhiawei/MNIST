@@ -25,6 +25,12 @@ Results:
 2. Utilized visualization tools such as confusion matrices to assess model performance.
 3. Investigated misclassifications to identify potential areas for improvement.
 
+File Directory:
+
+1. MNIST tutorial using TensorFlow Keras architecture
+2. MNIST tutorial using Custom Neural Network
+3. Webcam integration with MNIST
+
 Future Work:
 
 1. Explore more advanced architectures or ensemble methods to further improve performance.

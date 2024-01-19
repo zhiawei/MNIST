@@ -28,8 +28,8 @@ Results:
 File Directory:
 
 1. MNIST tutorial using TensorFlow Keras architecture
-2. MNIST tutorial using Custom Neural Network
-3. Webcam integration with MNIST
+2. MNIST tutorial using Custom Neural Network (unfinished)
+3. Webcam integration with MNIST (unfinished)
 
 Future Work:
 
